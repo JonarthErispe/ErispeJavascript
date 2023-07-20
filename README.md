@@ -32,6 +32,7 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
+
 	mintNFT("Jonarth", "21", "November",);
 	mintNFT("Arben", "19", "Septemper",);
 	mintNFT("Rodey", "20", "April");
